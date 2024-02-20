@@ -11,3 +11,7 @@
   - [Assert Range Of Values ](/AssertRange.md)
   - [Assert Exceptions ](/AssertExceptions.md)
   - [Assert Object Types ](/AssertObjectTypes.md)
+
+  - Arrange Phase And Managing Test  
+  - [Collections and Traits ](/CollectionsAndTraits.md)
+  - [Class Fixtures ](/ClassFixtures.md)
