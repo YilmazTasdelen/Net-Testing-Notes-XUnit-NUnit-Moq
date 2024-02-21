@@ -15,3 +15,10 @@
   - Arrange Phase And Managing Test  
   - [Collections and Traits ](/CollectionsAndTraits.md)
   - [Class Fixtures ](/ClassFixtures.md)
+  - [Constructures and IDisposable](/ConstructuresandDisposable.md)
+  - [Collection Definition](/CollectionDefinition.md)
+  - [Parallel Execution](/ParallelExecution.md)
+  
+  - Data Driven Tests
+  - [Inline Attiributes](/DataDrivenTest/InlineData.md)
+  - [Sharing Data Across Multiple Method](/DataDrivenTest/SharingDataAcrossMethods.md)
